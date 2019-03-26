@@ -12,6 +12,7 @@ class OrderViewController: UIViewController {
 
     @IBOutlet var infoLabel: UILabel!
     var info:String?
+    // 변화
     
     override func viewDidLoad() {
         super.viewDidLoad()
